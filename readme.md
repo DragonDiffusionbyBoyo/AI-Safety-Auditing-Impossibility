@@ -1,3 +1,5 @@
+STILL IN WIP ------------- CODE SOMETIMES ONLY DOES A HALF EFFORT
+
 # AI Model Auditing Impossibility Research
 
 **Mathematical proof that comprehensive AI model safety auditing is impossible at production scale.**
